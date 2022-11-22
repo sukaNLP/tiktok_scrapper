@@ -11,16 +11,16 @@ Buka website TikTok <br>
 Pilih pada bagian komentar <br>
 ![image](https://user-images.githubusercontent.com/32626488/203288567-f0aa9f6b-3a38-4f58-8d1f-bc9b0be9fc36.png)
 
-Klik kanan pilih inspect element
+Klik kanan pilih inspect element  <br>
 ![image](https://user-images.githubusercontent.com/32626488/203288791-fee9bcef-1c2e-47ae-bb47-190fae9132f7.png)
 
-Pastekan pada bagian kosong dari file cmd yang kita open
+Pastekan pada bagian kosong dari file cmd yang kita open  <br>
 ![image](https://user-images.githubusercontent.com/32626488/203289244-0abe6630-7467-446a-9f0d-ff2936f18a99.png)
 
-maka akan menjadi : 
+maka akan menjadi :  <br>
 ![image](https://user-images.githubusercontent.com/32626488/203289328-74d6dac3-5dae-4d09-91b2-1bd9224234fe.png)
 
-Lalu Tekan Enter Tunggu Proses Berjalan dan buka file CMD 1 nya untuk mengeksport data scrapernya :
+Lalu Tekan Enter Tunggu Proses Berjalan dan buka file CMD 1 nya untuk mengeksport data scrapernya : <br>
 ![image](https://user-images.githubusercontent.com/32626488/203289700-622e2136-7d2d-458e-9fcf-d3c016f1229e.png)
 
 
