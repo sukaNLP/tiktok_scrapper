@@ -24,3 +24,5 @@ Lalu Tekan Enter Tunggu Proses Berjalan dan buka file CMD 1 nya untuk mengekspor
 ![image](https://user-images.githubusercontent.com/32626488/203289700-622e2136-7d2d-458e-9fcf-d3c016f1229e.png)
 
 
+2. SCRAPER_TIKTOK
+
